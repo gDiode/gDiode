@@ -1,5 +1,5 @@
 # Hello 
-Im Diode.
+Im Ben.
 Im a currently a student in comunications and electronics enginering.
 The current languages that im using are C and some C variants, and VHDL and Verilog for Hardware design.
 You can reach me at a.g.ben.min@gmail.com
